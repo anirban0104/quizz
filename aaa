@@ -1,0 +1,19 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDo0m3cT4pl7h1_eJ-k_0KnE7-pUce8Ly8",
+    authDomain: "quiz-af9d5.firebaseapp.com",
+    projectId: "quiz-af9d5",
+    storageBucket: "quiz-af9d5.appspot.com",
+    messagingSenderId: "386595676354",
+    appId: "1:386595676354:web:11f2fe7791fb4117b89b5b"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
